@@ -1,6 +1,11 @@
 ## 👋 Hello there!
 I'm Shawn Guo, a gameplay programmer and technical sound designer at Serious Point Games. At the moment, I’m working on our upcoming PC/VR title, *The Ski Lodge Murder*. My role involves creating engaging gameplay mechanics and immersive audio experiences that bring the project to life. 
 
+I'm comfortable with:
+- Game Engines: Unity, Unreal
+- Languages: C++, C#, C, Javascript (React, TypeScript), Java, GLSL, HLSL, Python
+- Audio Middleware: Wwise, FMOD
+
 When I’m not working on professional projects, I like building personal games and implementing cool game design ideas (glorified shower thoughts). This page serves as a brief introduction to my work and a showcase of some of the more personal projects I’ve worked on.
 
 ### ❄️ _Vesuvius_
