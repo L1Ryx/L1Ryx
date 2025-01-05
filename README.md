@@ -27,9 +27,15 @@ Being more of a **long-term project**, [a demo](https://l1ryx.itch.io/vesuvius) 
 
 The game's main draw is how it combines turn-based strategy and relentless action, which is done through the player creating satisfying combos without having to memorize complex inputs. Apart from contributing to gameplay programming, I also worked on audio programming **without relying on middleware** to better suit a WebGL build. The game is playable [here](https://freakflaggames.itch.io/epoch-warriors).
 
-
-
 ### 🪵 _Adam's Room_
+[Adam's Room](https://github.com/L1Ryx/Adams-Room) is a survival game set in a single forest clearing with rogue-like elements. Your only goal is to collect logs scattered around the map to keep the fire in the center burning.  
+
+<p align="center">
+  <img src="https://imgur.com/NfuNTzh.png" alt="SS" width="40%">  
+</p> 
+
+Each playthrough offers unique combinations of merchant items and hazardous events. Random events, such as wildfires or heavy winds, keep the player on edge, with the events becoming more weird and unsettling as the night goes on. A playable demo is still in the works, but here is a [video demo](https://www.youtube.com/watch?v=_hSjNKDpxdY).
+
 <!--
 **L1Ryx/L1Ryx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
