@@ -1,4 +1,5 @@
-## Hi there 👋
+# Hello there!
+I'm Shawn Guo, a gameplay programmer and technical sound designer at Serious Point Games, where I’m currently working on our upcoming PC/VR title, *The Ski Lodge Murder*. My role involves creating engaging gameplay mechanics and immersive audio experiences that bring the project to life. 
 
 <!--
 **L1Ryx/L1Ryx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
