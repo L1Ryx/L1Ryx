@@ -17,7 +17,7 @@ When I’m not working on professional projects, I like building personal games 
   <img src="https://imgur.com/KuhF3AO.png" alt="SS" width="33%"> 
 </p> 
 
-Being more of a long-term project, [a demo](https://l1ryx.itch.io/vesuvius) is currently available, showcasing the game's core mechanics, including exploration, melee combat, and sound implementation. Audio is implemented dynamically using Wwise, ensuring immersive and reactive soundscapes that adapt to player actions and environmental events.
+Being more of a **long-term project**, [a demo](https://l1ryx.itch.io/vesuvius) is currently available, showcasing the game's core mechanics, including exploration, melee combat, and sound implementation. Audio is implemented dynamically using **Wwise**, ensuring immersive and reactive soundscapes that adapt to player actions and environmental events.
 
 ### 🦖 _Epoch Warriors_
 [Epoch Warriors](https://github.com/dgardner01/epochwarriors) is a fast-paced card-based fighting game between two dinosaurs.  
@@ -25,7 +25,7 @@ Being more of a long-term project, [a demo](https://l1ryx.itch.io/vesuvius) is c
   <img src="https://imgur.com/MvB9qgR.png" alt="SS" width="40%">  
 </p> 
 
-The game's main draw is how it combines turn-based strategy and relentless action, which is done through the player creating satisfying combos without having to memorize complex inputs. Apart from contributing to gameplay programming, I also worked on audio programming without relying on middleware to better suit a WebGL build. The game is playable [here](https://freakflaggames.itch.io/epoch-warriors).
+The game's main draw is how it combines turn-based strategy and relentless action, which is done through the player creating satisfying combos without having to memorize complex inputs. Apart from contributing to gameplay programming, I also worked on audio programming **without relying on middleware** to better suit a WebGL build. The game is playable [here](https://freakflaggames.itch.io/epoch-warriors).
 
 
 
