@@ -20,6 +20,11 @@ When I’m not working on professional projects, I like building personal games 
 Being more of a long-term project, [a demo](https://l1ryx.itch.io/vesuvius) is currently available, showcasing the game's core mechanics, including exploration, melee combat, and sound implementation. Audio is implemented dynamically using Wwise, ensuring immersive and reactive soundscapes that adapt to player actions and environmental events.
 
 ### 🦖 _Epoch Warriors_
+[Epoch Warriors](https://github.com/dgardner01/epochwarriors) is a fast-paced card-based fighting game between two dinosaurs.  
+<p align="center">
+  <img src="https://imgur.com/MvB9qgR.png" alt="SS" width="33%"> 
+</p> 
+
 
 
 ### 🪵 _Adam's Room_
