@@ -13,7 +13,7 @@ When I’m not working on professional projects, I like building personal games 
 ### ❄️ _Vesuvius_
 [Vesuvius](https://github.com/L1Ryx/Vesuvius) is a surreal metroidvania where the player uncovers the secrets of a snowy Mt. Vesuvius and its mysterious cult. 
 
-  <img src="https://imgur.com/KuhF3AO.png" alt="SS" width="50%" text-align: center>
+  <img src="https://imgur.com/KuhF3AO.png" alt="SS" width="50%">
 
 Being more of a long-term project, [a demo](https://l1ryx.itch.io/vesuvius) is currently available, showcasing the game's core mechanics, including exploration, melee combat, and sound implementation. Audio is implemented dynamically using Wwise, ensuring immersive and reactive soundscapes that adapt to player actions and environmental events.
 
