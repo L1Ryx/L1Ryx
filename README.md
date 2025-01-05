@@ -11,6 +11,7 @@ I'm comfortable with:
 When I’m not working on professional projects, I like building personal games and implementing cool game design ideas (glorified shower thoughts). This page serves as a brief introduction to my work and a showcase of some of the more recent personal projects I’ve worked on.
 
 ### ❄️ _Vesuvius_
+![Cover](https://imgur.com/cjuChcC.png)
 
 ### 🦖 _Epoch Warriors_
 
