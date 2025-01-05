@@ -11,7 +11,7 @@ I'm comfortable with:
 When I’m not working on professional projects, I like building personal games and implementing cool game design ideas (glorified shower thoughts). This page serves as a brief introduction to my work and a showcase of some of the more recent personal projects I’ve worked on.
 
 ### ❄️ _Vesuvius_
-![Cover](https://imgur.com/cjuChcC.png)
+[Vesuvius](https://github.com/L1Ryx/Vesuvius) is a surreal Metroidvania where the player uncovers the secrets of a snowy Mt. Vesuvius and its mysterious cult. Being more of a long term project, [a demo](https://l1ryx.itch.io/vesuvius) is currently available, showcasing the game's core mechanics, including exploration, melee combat, and sound implementation.
 
 ### 🦖 _Epoch Warriors_
 
