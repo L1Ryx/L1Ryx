@@ -5,6 +5,11 @@ When I’m not working on professional projects, I enjoy building personal games
 
 ## ❄️ _Vesuvius_
 
+## 🦖 _Epoch Warriors_
+
+## 🪵 _Adam's Room_
+
+## 🟨 _Dot Matrix_
 <!--
 **L1Ryx/L1Ryx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
