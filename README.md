@@ -13,7 +13,7 @@ When I’m not working on professional projects, I like building personal games 
 ### ❄️ _Vesuvius_
 [Vesuvius](https://github.com/L1Ryx/Vesuvius) is a surreal metroidvania where the player uncovers the secrets of a snowy Mt. Vesuvius and its mysterious cult.  
 
-Being more of a **long-term project**, [a playable demo](https://l1ryx.itch.io/vesuvius) is currently available, showcasing the game's core mechanics, including exploration, melee combat, and sound implementation. Audio is implemented dynamically using **Wwise**, ensuring immersive and reactive soundscapes that adapt to player actions and environmental events. Learn more in this [audio implementation demo](https://play.reelcrafter.com/aG3LGNytSIGzhQa5dXnDBA).
+Being more of a **long-term project**, [a playable demo](https://l1ryx.itch.io/vesuvius) is currently available, showcasing the game's core mechanics, including exploration, melee combat, and sound implementation. Audio is implemented dynamically using **Wwise**, ensuring immersive and reactive soundscapes that adapt to player actions and environmental events. 
 
 <p align="center">
   <img src="https://imgur.com/KuhF3AO.png" alt="SS" width="40%"> 
@@ -22,7 +22,7 @@ Being more of a **long-term project**, [a playable demo](https://l1ryx.itch.io/v
 ### 🦖 _Epoch Warriors_
 [Epoch Warriors](https://github.com/dgardner01/epochwarriors) is a fast-paced card-based fighting game between two dinosaurs.  
 
-The game's main draw is how it combines turn-based strategy and relentless action, which is done through the player creating satisfying combos without having to memorize complex inputs. Apart from contributing to gameplay programming, I also worked on audio programming **without relying on middleware** to better suit a WebGL build.   
+The game's main draw is how it combines turn-based strategy and relentless action, which is done through the player creating satisfying combos without having to memorize complex inputs. Apart from contributing to gameplay programming, I also worked on audio programming **without relying on middleware** to better suit a WebGL build. The game is playable [here](https://freakflaggames.itch.io/epoch-warriors). 
   
 <p align="center">
   <img src="https://imgur.com/Y4Tzpbe.png" alt="SS" width="45%">  
