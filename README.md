@@ -22,7 +22,7 @@ Being more of a **long-term project**, [a playable demo](https://l1ryx.itch.io/v
 ### 🦖 _Epoch Warriors_
 [Epoch Warriors](https://github.com/dgardner01/epochwarriors) is a fast-paced card-based fighting game between two dinosaurs.  
 
-The game's main draw is how it combines turn-based strategy and relentless action, which is done through the player creating satisfying combos without having to memorize complex inputs. Apart from contributing to gameplay programming, I also worked on audio programming **without relying on middleware** to better suit a WebGL build. The game is playable [here](https://freakflaggames.itch.io/epoch-warriors).   
+The game's main draw is how it combines turn-based strategy and relentless action, which is done through the player creating satisfying combos without having to memorize complex inputs. Apart from contributing to gameplay programming, I also worked on audio programming **without relying on middleware** to better suit a WebGL build.   
   
 <p align="center">
   <img src="https://imgur.com/Y4Tzpbe.png" alt="SS" width="45%">  
