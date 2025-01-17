@@ -25,7 +25,7 @@ Being more of a **long-term project**, [a playable demo](https://l1ryx.itch.io/v
 The game's main draw is how it combines turn-based strategy and relentless action, which is done through the player creating satisfying combos without having to memorize complex inputs. Apart from contributing to gameplay programming, I also worked on audio programming **without relying on middleware** to better suit a WebGL build. The game is playable [here](https://freakflaggames.itch.io/epoch-warriors). 
   
 <p align="center">
-  <img src="https://imgur.com/HCLC5nR.png" alt="SS" width="45%">  
+  <img src="https://imgur.com/HCLC5nR" alt="SS" width="45%">  
 </p> 
 
 ### 🪵 _Adam's Room_
