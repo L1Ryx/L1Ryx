@@ -34,7 +34,7 @@ The game's main draw is how it combines turn-based strategy and relentless actio
 Each playthrough offers unique combinations of merchant items and hazardous events. Random events, such as wildfires or heavy winds, keep the player on edge, with the events becoming more weird and unsettling as the night goes on. A playable demo is still in the works, but here is a [video demo](https://www.youtube.com/watch?v=_hSjNKDpxdY).  
 
 <p align="center">
-  <img src="https://imgur.com/NfuNTzh.png" alt="SS" width="45%">  
+  <img src="https://i.imgur.com/NfuNTzh.png" alt="SS" width="45%">  
 </p> 
 
 <!--
