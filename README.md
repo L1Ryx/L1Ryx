@@ -16,7 +16,7 @@ When I’m not working on professional projects, I like building personal games 
 Being more of a **long-term project**, [a playable demo](https://l1ryx.itch.io/vesuvius) is currently available, showcasing the game's core mechanics, including exploration, melee combat, and sound implementation. Audio is implemented dynamically using **Wwise**, ensuring immersive and reactive soundscapes that adapt to player actions and environmental events. Learn more in this [audio implementation demo](https://play.reelcrafter.com/aG3LGNytSIGzhQa5dXnDBA).
 
 <p align="center">
-  <img src="https://imgur.com/KuhF3AO.png" alt="SS" width="40%"> 
+  <img src="https://i.imgur.com/KuhF3AO.png" alt="SS" width="40%"> 
 </p> 
 
 ### 🦖 _Epoch Warriors_
