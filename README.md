@@ -1,7 +1,5 @@
 ## 👋 Hello there!
-I'm Shawn, a gameplay programmer and technical sound designer at [Serious Point Games](https://www.seriouspointgames.com/). At the moment, I’m working on our upcoming PC/VR title, *The Ski Lodge Murder*. 
-
-I also co-founded the [Hopkins Game Dev Society](https://www.hopkinsgamedevsociety.com/), where we empower Johns Hopkins University students to create games by providing formal mentorship and hosting career-building events.
+I'm Shawn, a gameplay/audio programmer and technical sound designer. I co-founded the [Hopkins Game Dev Society](https://www.hopkinsgamedevsociety.com/), where we empower Johns Hopkins University students to create games by providing formal mentorship and hosting career-building events.
 
 I'm comfortable with:
 - Game Engines: Unity, Unreal
