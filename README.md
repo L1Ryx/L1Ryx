@@ -2,9 +2,7 @@
 I'm Shawn, a gameplay/audio programmer and technical sound designer. 
 
 I'm comfortable with:
-
 - Game Development: Unity, Unreal Engine 5, Gameplay/Systems Architecture
-
 - Languages:  
   <img src="https://img.shields.io/badge/C-A8B9CC" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C" />
@@ -14,11 +12,8 @@ I'm comfortable with:
   <img src="https://img.shields.io/badge/React-20232A" />
   <img src="https://img.shields.io/badge/Java-007396" />
   <img src="https://img.shields.io/badge/Python-3776AB" />
-
 - Technical Audio: Wwise, FMOD  
-
 - Collaboration: Git, Perforce, Jira, Confluence
-
 
 I've worked as a Software Engineering Intern on the _Call of Duty_ franchise at [Activision/Raven Software](https://www.ravensoftware.com/our-games) and as a Gameplay Programmer & Tech Sound Designer at [Serious Point Games](https://www.seriouspointgames.com/) for their upcoming title, _The Ski Lodge Murder_. 
 
