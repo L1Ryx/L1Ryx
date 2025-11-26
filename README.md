@@ -1,5 +1,5 @@
 ## 👋 Hello there!
-I'm Shawn, a gameplay/audio programmer and technical sound designer. I co-founded the [Hopkins Game Dev Society](https://www.hopkinsgamedevsociety.com/), where we empower Johns Hopkins University students to create games by providing formal mentorship and hosting career-building events.
+I'm Shawn, a gameplay/audio programmer and technical sound designer. 
 
 I'm comfortable with:
 - Game Development: Unity, Unreal Engine 5, Gameplay/Systems Architecture
@@ -7,7 +7,7 @@ I'm comfortable with:
 - Technical Audio: Wwise, FMOD
 - Collaboration: Git, Perforce, Jira, Confluence
 
-I've worked as a Software Engineering Intern on the _Call of Duty_ franchise at [Activision/Raven Software](https://www.ravensoftware.com/our-games) and as a Gameplay Programmer & Tech Sound Designer at [Serious Point Games](https://www.seriouspointgames.com/) for their upcoming title, _The Ski Lodge Murder_.
+I've worked as a Software Engineering Intern on the _Call of Duty_ franchise at [Activision/Raven Software](https://www.ravensoftware.com/our-games) and as a Gameplay Programmer & Tech Sound Designer at [Serious Point Games](https://www.seriouspointgames.com/) for their upcoming title, _The Ski Lodge Murder_. I co-founded the [Hopkins Game Dev Society](https://www.hopkinsgamedevsociety.com/), where we empower Johns Hopkins University students to create games by providing formal mentorship and hosting career-building events.
 
 When I’m not working on professional projects, I like building personal games and implementing cool game design ideas (glorified shower thoughts). This page is a brief introduction to my work and a showcase of some of the more recent personal projects I’ve worked on.
 
