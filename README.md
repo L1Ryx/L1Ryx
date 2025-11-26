@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://i.imgur.com/cEppnfb.png" alt="SS" width="100%">  
-</p> 
-
 ## 👋 Hello there!
 I'm Shawn, a gameplay/audio programmer and technical sound designer. I co-founded the [Hopkins Game Dev Society](https://www.hopkinsgamedevsociety.com/), where we empower Johns Hopkins University students to create games by providing formal mentorship and hosting career-building events.
 
@@ -12,6 +8,10 @@ I'm comfortable with:
 - Collaboration: Git, Perforce, Jira, Confluence
 
 When I’m not working on professional projects, I like building personal games and implementing cool game design ideas (glorified shower thoughts). This page serves as a brief introduction to my work and a showcase of some of the more recent personal projects I’ve worked on.
+
+<p align="center">
+  <img src="https://i.imgur.com/cEppnfb.png" alt="SS" width="100%">  
+</p> 
 
 ### ❄️ _Vesuvius_
 [Vesuvius](https://github.com/L1Ryx/Vesuvius) is a surreal metroidvania where the player uncovers the secrets of a snowy Mt. Vesuvius and its mysterious cult.  
