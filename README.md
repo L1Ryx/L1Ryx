@@ -1,5 +1,5 @@
 ## 👋 Hello there!
-I'm Shawn, a gameplay/audio programmer and technical sound designer. I'm also a senior Computer Science student at [Johns Hopkins University](https://www.cs.jhu.edu/), with game audio experience from the [Peabody Institute’s](https://peabody.jhu.edu/academics/instruments-areas-of-study/music-for-new-media/) Music for New Media program.
+I'm Shawn, a gameplay/audio programmer and technical sound designer. I'm also a senior Computer Science student at [Johns Hopkins University](https://www.cs.jhu.edu/), with game audio experience from the Peabody Institute’s [Music for New Media](https://peabody.jhu.edu/academics/instruments-areas-of-study/music-for-new-media/) program.
 
 I'm comfortable with:
 - <span>Game Engines:</span>
