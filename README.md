@@ -1,5 +1,5 @@
 ## 👋 Hello there!
-I'm Shawn, a gameplay/audio programmer and technical sound designer. 
+I'm Shawn, a gameplay/audio programmer and technical sound designer. I'm also a senior Computer Science student at Johns Hopkins University, and I study Music for New Media at the Peabody Institute, where I get to work extensively on game audio and interactive sound implementation.
 
 I'm comfortable with:
 - <span>Game Engines:</span>
