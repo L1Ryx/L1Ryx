@@ -14,8 +14,14 @@ I'm comfortable with:
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Java-007396?logo=coffeescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-- Technical Audio: Wwise, FMOD  
-- Collaboration: Git, Perforce, Jira, Confluence
+- <span>Technical Audio:</span>
+  <img src="https://img.shields.io/badge/Wwise-00549F?logo=airplayaudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/FMOD-FA5C5C?logo=fmod&logoColor=white" />
+- <span>Collaboration:</span>
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Perforce-404D59?logo=perforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=white" />
 
 I've worked as a Software Engineering Intern on the _Call of Duty_ franchise at [Activision/Raven Software](https://www.ravensoftware.com/our-games) and as a Gameplay Programmer & Tech Sound Designer at [Serious Point Games](https://www.seriouspointgames.com/) for their upcoming title, _The Ski Lodge Murder_. 
 
