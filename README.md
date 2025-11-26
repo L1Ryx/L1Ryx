@@ -1,8 +1,11 @@
 ## 👋 Hello there!
+<p align="center">
+  <img src="https://i.imgur.com/cEppnfb.png" alt="SS" width="100%">  
+</p> 
 I'm Shawn, a gameplay/audio programmer and technical sound designer. I co-founded the [Hopkins Game Dev Society](https://www.hopkinsgamedevsociety.com/), where we empower Johns Hopkins University students to create games by providing formal mentorship and hosting career-building events.
 
 I'm comfortable with:
-- Game Development: Unity, Unreal Engine 5, Gameplay and Systems Architecture
+- Game Development: Unity, Unreal Engine 5, Gameplay/Systems Architecture
 - Languages: C/C++, C#, TypeScript/JavaScript (React), Java, GLSL, HLSL, Python
 - Technical Audio: Wwise, FMOD
 - Collaboration: Git, Perforce, Jira, Confluence
