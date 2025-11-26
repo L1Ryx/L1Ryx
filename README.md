@@ -6,9 +6,9 @@ I'm comfortable with:
   <img src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/Unreal%20Engine%205-0E1128?logo=unrealengine&logoColor=white" />
 - <span>Languages:</span>
-  <img src="https://img.shields.io/badge/C-A8B9CC" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C" />
-  <img src="https://img.shields.io/badge/C%23-239120" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E" />
   <img src="https://img.shields.io/badge/React-20232A" />
