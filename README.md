@@ -2,10 +2,23 @@
 I'm Shawn, a gameplay/audio programmer and technical sound designer. 
 
 I'm comfortable with:
+
 - Game Development: Unity, Unreal Engine 5, Gameplay/Systems Architecture
-- Languages: ![Static Badge](https://img.shields.io/badge/C-A8B9CC) ![Static Badge](https://img.shields.io/badge/C%2B%2B-00599C) ![Static Badge](https://img.shields.io/badge/C%23-239120) ![Static Badge](https://img.shields.io/badge/TypeScript-3178C6) ![Static Badge](https://img.shields.io/badge/JavaScript-F7DF1E) ![Static Badge](https://img.shields.io/badge/React-20232A) ![Static Badge](https://img.shields.io/badge/Java-007396) ![Static Badge](https://img.shields.io/badge/Python-3776AB)
-- Technical Audio: Wwise, FMOD
+
+- Languages:  
+  <img src="https://img.shields.io/badge/C-A8B9CC" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C" />
+  <img src="https://img.shields.io/badge/C%23-239120" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E" />
+  <img src="https://img.shields.io/badge/React-20232A" />
+  <img src="https://img.shields.io/badge/Java-007396" />
+  <img src="https://img.shields.io/badge/Python-3776AB" />
+
+- Technical Audio: Wwise, FMOD  
+
 - Collaboration: Git, Perforce, Jira, Confluence
+
 
 I've worked as a Software Engineering Intern on the _Call of Duty_ franchise at [Activision/Raven Software](https://www.ravensoftware.com/our-games) and as a Gameplay Programmer & Tech Sound Designer at [Serious Point Games](https://www.seriouspointgames.com/) for their upcoming title, _The Ski Lodge Murder_. 
 
