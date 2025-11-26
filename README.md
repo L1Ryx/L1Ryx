@@ -2,7 +2,7 @@
 I'm Shawn, a gameplay/audio programmer and technical sound designer. 
 
 I'm comfortable with:
-- Game Engines:
+- Game Engines:  
   <img src="https://img.shields.io/badge/Unity-000000" />
   <img src="https://img.shields.io/badge/Unreal%20Engine%205-0E1128" />
 - Languages:  
