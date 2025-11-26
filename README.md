@@ -3,7 +3,7 @@ I'm Shawn, a gameplay/audio programmer and technical sound designer.
 
 I'm comfortable with:
 - Game Development: Unity, Unreal Engine 5, Gameplay/Systems Architecture
-- Languages: C/![Static Badge](https://img.shields.io/badge/C%2B%2B-118025), C#, TypeScript/JavaScript (React), Java, GLSL, HLSL, Python
+- Languages: ![Static Badge](https://img.shields.io/badge/C-768584), ![Static Badge](https://img.shields.io/badge/C%2B%2B-118025), C#, TypeScript/JavaScript (React), Java, GLSL, HLSL, Python
 - Technical Audio: Wwise, FMOD
 - Collaboration: Git, Perforce, Jira, Confluence
 
