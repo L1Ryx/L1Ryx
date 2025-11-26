@@ -9,11 +9,11 @@ I'm comfortable with:
   <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-512BD4?logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E" />
-  <img src="https://img.shields.io/badge/React-20232A" />
-  <img src="https://img.shields.io/badge/Java-007396" />
-  <img src="https://img.shields.io/badge/Python-3776AB" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
 - Technical Audio: Wwise, FMOD  
 - Collaboration: Git, Perforce, Jira, Confluence
 
