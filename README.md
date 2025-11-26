@@ -7,6 +7,8 @@ I'm comfortable with:
 - Technical Audio: Wwise, FMOD
 - Collaboration: Git, Perforce, Jira, Confluence
 
+I've worked as a Software Engineering Intern for Audio on the _Call of Duty_ franchise at Activision/[Raven Software](https://www.ravensoftware.com/our-games) and as a Gameplay Programmer & Tech Sound Designer at [Serious Point Games](https://www.seriouspointgames.com/) for upcoming title, _The Ski Lodge Murder_.
+
 When I’m not working on professional projects, I like building personal games and implementing cool game design ideas (glorified shower thoughts). This page serves as a brief introduction to my work and a showcase of some of the more recent personal projects I’ve worked on.
 
 <p align="center">
