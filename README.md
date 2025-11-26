@@ -23,7 +23,7 @@ I'm comfortable with:
   <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=white" />
 
-I've worked as a <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" /> Software Engineering Intern on the _Call of Duty_ franchise at [Activision/Raven Software](https://www.ravensoftware.com/our-games) and as a Gameplay Programmer & Tech Sound Designer at [Serious Point Games](https://www.seriouspointgames.com/) for their upcoming title, _The Ski Lodge Murder_. 
+I've worked as a <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" /> Software Engineering Intern on the _Call of Duty_ franchise at [Activision/Raven Software](https://www.ravensoftware.com/our-games) and as a <img src="https://img.shields.io/badge/C%23-512BD4?logo=dotnet&logoColor=white" /> Gameplay Programmer & <img src="https://img.shields.io/badge/Wwise-00549F?logo=airplayaudio&logoColor=white" /> Tech Sound Designer at [Serious Point Games](https://www.seriouspointgames.com/) for their upcoming title, _The Ski Lodge Murder_. 
 
 I also co-founded the [Hopkins Game Dev Society](https://www.hopkinsgamedevsociety.com/), where we empower Johns Hopkins University students to create games by providing formal mentorship and hosting career-building events.
 
