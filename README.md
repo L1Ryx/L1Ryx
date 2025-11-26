@@ -8,7 +8,7 @@ I'm comfortable with:
 - <span>Languages:</span>
   <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E" />
   <img src="https://img.shields.io/badge/React-20232A" />
