@@ -30,7 +30,7 @@ I also co-founded the [Hopkins Game Dev Society](https://www.hopkinsgamedevsocie
 When I’m not working on professional projects, I like building personal games and implementing cool game design ideas (glorified shower thoughts). This page is a brief introduction to my work and a showcase of some of the more recent personal projects I’ve worked on.
 
 <p align="center">
-  <img src="https://imgur.com/vYG2siQ.png" alt="SS" width="40%"> 
+  <blockquote class="imgur-embed-pub" lang="en" data-id="a/d26HCt5" data-context="false" ><a href="//imgur.com/a/d26HCt5"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 </p> 
 
 ### ❄️ _Vesuvius_
