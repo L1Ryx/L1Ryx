@@ -62,7 +62,7 @@ The game's main draw is how it combines turn-based strategy and relentless actio
 Base version built in 4 days for the 2025 GMTK Game Jam by members of the Johns Hopkins Game Development Society, where I co-led this project.
 
 <p align="center">
-  <img src="https://i.imgur.com/d26HCt5.png" alt="SS" width="45%">  
+  <img src="https://i.imgur.com/vYG2siQ.png" alt="SS" width="45%">  
 </p> 
 
 ### 🪵 _Adam's Room_
