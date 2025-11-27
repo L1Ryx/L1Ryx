@@ -45,6 +45,7 @@ Learn more in this [audio implementation demo](https://play.reelcrafter.com/aG3L
   <img src="https://i.imgur.com/KuhF3AO.png" alt="SS" width="40%"> 
 </p> 
 
+<!--
 ### 🦖 _Epoch Warriors_
 [Epoch Warriors](https://github.com/dgardner01/epochwarriors) is a fast-paced card-based fighting game between two dinosaurs.  
 
@@ -52,6 +53,16 @@ The game's main draw is how it combines turn-based strategy and relentless actio
   
 <p align="center">
   <img src="https://i.imgur.com/HCLC5nR.png" alt="SS" width="45%">  
+</p> 
+-->
+
+### 🤖 _Deja You_
+[Deja You](https://johnnieshen.itch.io/deja-you) is a time-loop puzzle platformer where every rewind spawns a new Lifetime: a ghost of your past actions that continues performing what you did before. The twist is that you have a limited "Time Budget", and every second you spend eats into it. Across 15 levels inspired by Maslow’s Hierarchy of Needs, you’ll climb from survival to self-actualization not just by mastering movement, but by coordinating with your past selves. Use multiple Lifetimes to press switches, set up chain reactions, and help future-you reach the exit before the clock runs out.
+
+Base version built in 4 days for the 2025 GMTK Game Jam by members of the Johns Hopkins Game Development Society, where I co-led this project.
+
+<p align="center">
+  <img src="https://i.imgur.com/d26HCt5.png" alt="SS" width="45%">  
 </p> 
 
 ### 🪵 _Adam's Room_
