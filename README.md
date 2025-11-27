@@ -34,7 +34,7 @@ When I’m not working on professional projects, I like building personal games 
 </p> 
 
 ### ❄️ _Vesuvius_
-[Vesuvius](https://vesuviusgame.com) is a surreal metroidvania where the player uncovers the secrets of a snowy Mt. Vesuvius and its mysterious cult.  
+[Vesuvius](https://vesuviusgame.com) is a surreal metroidvania where the player uncovers the secrets of a snowy Mt. Vesuvius and its mysterious cult. Its core mechanic centers on shifting between two parallel dimensions to solve puzzles, engagei n combat, and slowly uncover "the other side."
 
 Being more of a **long-term project**, [a playable demo](https://l1ryx.itch.io/vesuvius) is currently available, showcasing the game's core mechanics, including exploration, melee combat, and sound implementation. Audio is implemented dynamically using **Wwise**, ensuring immersive and reactive soundscapes that adapt to player actions and environmental events. 
 <!--
