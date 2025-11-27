@@ -61,10 +61,19 @@ The game's main draw is how it combines turn-based strategy and relentless actio
 
 Across 15 levels inspired by Maslow’s Hierarchy of Needs, you’ll climb from survival to self-actualization not just by mastering movement, but by coordinating with your past selves. Use multiple Lifetimes to press switches, set up chain reactions, and help future-you reach the exit before the clock runs out.
 
-Base version built in 4 days for the 2025 GMTK Game Jam by members of the Johns Hopkins Game Development Society, where I co-led this project.
+Base version built in 4 days for the 2025 GMTK Game Jam by members of the Hopkins Game Development Society, where I co-led this project.
 
 <p align="center">
   <img src="https://i.imgur.com/vYG2siQ.png" alt="SS" width="45%">  
+</p> 
+
+### ♥️ _Love Language_
+[Love Language](https://hopkins-game-dev-society.itch.io/love-language) begins as a wholesome visual novel about finally putting yourself out there on a café date, but things quickly unravel as your dating anxiety twists the world into unsettling minigames. What starts as simple conversation soon fractures into frantic challenges, distorted mechanics, and rising tension as you try to keep the date from falling apart.
+
+Built in 6 days for the 2025 Scream Jam by members of the Hopkins Game Development Society, where I co-produced this project and lead VFX/Audio implementation.
+
+<p align="center">
+  <img src="https://imgur.com/SiZRknE.png" alt="SS" width="45%">  
 </p> 
 
 ### 🪵 _Adam's Room_
