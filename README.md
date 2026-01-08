@@ -41,6 +41,8 @@ Being more of a **long-term project**, [a playable demo](https://l1ryx.itch.io/v
 Learn more in this [audio implementation demo](https://play.reelcrafter.com/aG3LGNytSIGzhQa5dXnDBA).
 -->
 
+[![Watch the video](https://img.youtube.com/vi/<VIDEO_ID>/hqdefault.jpg)](https://www.youtube.com/embed/l4PUy7jhyik)
+
 <p align="center">
   <img src="https://i.imgur.com/KuhF3AO.png" alt="SS" width="40%"> 
 </p> 
