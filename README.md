@@ -73,6 +73,8 @@ The game's main draw is how it combines turn-based strategy and relentless actio
 [Deja You](https://johnnieshen.itch.io/deja-you) is a time-loop puzzle platformer where every rewind spawns a new Lifetime: a ghost of your past actions that continues performing what you did before. The twist is that you have a limited "Time Budget", and every second you spend eats into it. 
 
 Across 15 levels inspired by Maslow’s Hierarchy of Needs, you’ll climb from survival to self-actualization not just by mastering movement, but by coordinating with your past selves. Use multiple Lifetimes to press switches, set up chain reactions, and help future-you reach the exit before the clock runs out.
+- [Play Game](https://johnnieshen.itch.io/deja-you)
+- [Source Code](https://github.com/JohnnieShen/GMTK-HGDS)
 
 Base version built in 4 days for the 2025 GMTK Game Jam by members of the Hopkins Game Development Society, where I co-led this project.
 
@@ -82,13 +84,16 @@ Base version built in 4 days for the 2025 GMTK Game Jam by members of the Hopkin
 
 ### ♥️ _Love Language_
 [Love Language](https://hopkins-game-dev-society.itch.io/love-language) begins as a wholesome visual novel about finally putting yourself out there on a café date, but things quickly unravel as your dating anxiety twists the world into unsettling minigames. What starts as simple conversation soon fractures into frantic challenges, distorted mechanics, and rising tension as you try to keep the date from falling apart.
+- [Play Game](https://hopkins-game-dev-society.itch.io/love-language)
+- [Source Code](https://github.com/Hopkins-Game-Dev-Society/ScreamJam2025)
 
-Built in 6 days for the 2025 Scream Jam by members of the Hopkins Game Development Society, where I co-produced this project and lead VFX/Audio implementation.
+Built in 6 days for the 2025 Scream Jam by members of the Hopkins Game Development Society, where I co-produced this project, as well as lead engineering and VFX/Audio implementation.
 
 <p align="center">
   <img src="https://imgur.com/SiZRknE.png" alt="SS" width="45%">  
 </p> 
 
+<!--
 ### 🪵 _Adam's Room_
 [Adam's Room](https://github.com/L1Ryx/Adams-Room) is a survival game set in a single forest clearing with rogue-like elements. Your only goal is to collect logs scattered around the map to keep the fire in the center burning.  
 
@@ -97,6 +102,8 @@ Each playthrough offers unique combinations of merchant items and hazardous even
 <p align="center">
   <img src="https://i.imgur.com/NfuNTzh.png" alt="SS" width="45%">  
 </p> 
+
+-->
 
 <!--
 **L1Ryx/L1Ryx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
