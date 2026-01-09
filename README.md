@@ -35,8 +35,8 @@ When I’m not working on professional projects, I like building personal games 
 
 ### 🔭 _Ducks Afar_
 
-<a href="https://postimg.cc/CzTS59xh">
-  <img src="https://i.postimg.cc/c46H9Sqn/Ducks-Afar-Screenshot-1-9-26.png" width="25%">
+<a href="https://postimg.cc/CzTS59xh" align="center">
+  <img src="https://i.postimg.cc/c46H9Sqn/Ducks-Afar-Screenshot-1-9-26.png" width="60%">
 </a>
 
 ### ❄️ _Vesuvius_
