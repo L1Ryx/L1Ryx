@@ -35,9 +35,11 @@ When I’m not working on professional projects, I like building personal games 
 
 ### 🔭 _Ducks Afar_
 
-<a href="https://postimg.cc/CzTS59xh" align="center">
-  <img src="https://i.postimg.cc/c46H9Sqn/Ducks-Afar-Screenshot-1-9-26.png" width="60%">
-</a>
+<p align="center">
+  <a href="https://postimg.cc/CzTS59xh">
+    <img src="https://i.postimg.cc/c46H9Sqn/Ducks-Afar-Screenshot-1-9-26.png" width="60%">
+  </a>
+</p>
 
 ### ❄️ _Vesuvius_
 [Vesuvius](https://vesuviusgame.com) is a surreal metroidvania where the player uncovers the secrets of a snowy Mt. Vesuvius and its mysterious cult. Its core mechanic centers on shifting between two parallel dimensions to solve puzzles, engagei n combat, and slowly uncover "the other side."
