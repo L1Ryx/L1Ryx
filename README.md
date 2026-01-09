@@ -43,7 +43,7 @@ The project focuses on building a highly polished vertical slice, with particula
 
 <p align="center">
   <a href="https://postimg.cc/CzTS59xh">
-    <img src="https://i.postimg.cc/c46H9Sqn/Ducks-Afar-Screenshot-1-9-26.png" width="60%">
+    <img src="https://i.postimg.cc/c46H9Sqn/Ducks-Afar-Screenshot-1-9-26.png" width="67%">
   </a>
 </p>
 
@@ -59,7 +59,7 @@ Being more of a **long-term project**, a ~30-minute playable demo is currently a
 
 <p align="center">
   <a href="https://postimg.cc/gJqCHnkz">
-    <img src="https://i.postimg.cc/gJqCHnkz/Vesuvius-Rest-Area.png" width="60%">
+    <img src="https://i.postimg.cc/gJqCHnkz/Vesuvius-Rest-Area.png" width="67%">
   </a>
 </p>
 
@@ -84,7 +84,7 @@ Across 15 levels inspired by Maslow’s Hierarchy of Needs, you’ll climb from 
 Base version built in 4 days for the 2025 GMTK Game Jam by members of the Hopkins Game Development Society, where I co-led this project.
 
 <p align="center">
-  <img src="https://i.imgur.com/vYG2siQ.png" alt="SS" width="45%">  
+  <img src="https://i.imgur.com/vYG2siQ.png" alt="SS" width="67%">  
 </p> 
 
 ### ♥️ _Love Language_
@@ -95,7 +95,7 @@ Base version built in 4 days for the 2025 GMTK Game Jam by members of the Hopkin
 Built in 6 days for the 2025 Scream Jam by members of the Hopkins Game Development Society, where I co-produced this project, as well as lead engineering and VFX/Audio implementation.
 
 <p align="center">
-  <img src="https://imgur.com/SiZRknE.png" alt="SS" width="45%">  
+  <img src="https://imgur.com/SiZRknE.png" alt="SS" width="67%">  
 </p> 
 
 <!--
