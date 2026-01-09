@@ -35,6 +35,12 @@ When I’m not working on professional projects, I like building personal games 
 
 ### 🔭 _Ducks Afar_
 
+Ducks Afar is a short, story-driven puzzle game about tracking down your ducks across a distant solar system. As a planetary field researcher, you recover lost ducks by preparing their favorite meals using packs of HARDWORMS—highly magnetic resources that cannot be split or combined by hand. To reach the exact amounts each duck demands, you must operate ancient machines embedded in the environment, turning simple arithmetic transformations into physical, world-driven puzzles.
+
+The project focuses on building a highly polished vertical slice, with particular attention to gameplay clarity, UI and audio juicing, and clean, extensible architecture. On the engineering side, the game emphasizes strong state management through a facade-style game context and structured level sequencing using ScriptableObject-based narrative and gameplay beats. A playable demo of a single level is currently available.
+- Playable demo (available soon!)
+- [Source code](https://github.com/L1Ryx/Ducks-Afar)
+
 <p align="center">
   <a href="https://postimg.cc/CzTS59xh">
     <img src="https://i.postimg.cc/c46H9Sqn/Ducks-Afar-Screenshot-1-9-26.png" width="60%">
