@@ -55,6 +55,8 @@ Being more of a **long-term project**, a ~30-minute playable demo is currently a
 - [Trailer!](https://drive.google.com/file/d/1A9DSPssvRZr1XDlkY1mOSOAfnc07PiBz/view?usp=sharing)
 - [Audio Implementation Demo](https://play.reelcrafter.com/aG3LGNytSIGzhQa5dXnDBA)
 
+*Vesuvius* is a collaborative project with [Brett Wolfinger](https://github.com/BrettWolfinger), and together we make up the indie studio Snow Day Games.
+
 <p align="center">
   <img src="https://i.imgur.com/KuhF3AO.png" alt="SS" width="40%"> 
 </p> 
