@@ -35,11 +35,11 @@ When I’m not working on professional projects, I like building personal games 
 
 ### 🔭 _Ducks Afar_
 
-Ducks Afar is a short, story-driven puzzle game about tracking down your ducks across a distant solar system. As a planetary field researcher, you recover lost ducks by preparing their favorite meals using packs of HARDWORMS—highly magnetic resources that cannot be split or combined by hand. To reach the exact amounts each duck demands, you must operate ancient machines embedded in the environment, turning simple arithmetic transformations into physical, world-driven puzzles.
+Ducks Afar is a short, story-driven puzzle game about tracking down your ducks across a distant solar system. As a planetary field researcher, you recover lost ducks by preparing their favorite meals using packs of HARDWORMS, which are highly magnetic resources that cannot be split or combined by hand. To reach the exact amounts each duck demands, you must operate ancient machines embedded in the environment, turning simple arithmetic transformations into physical, world-driven puzzles.
 
 The project focuses on building a highly polished vertical slice, with particular attention to gameplay clarity, UI and audio juicing, and clean, extensible architecture. On the engineering side, the game emphasizes strong state management through a facade-style game context and structured level sequencing using ScriptableObject-based narrative and gameplay beats. A playable demo of a single level is currently available.
-- Playable demo (available soon!)
-- [Source code](https://github.com/L1Ryx/Ducks-Afar)
+- Playable Demo (Available Soon!)
+- [Source Code](https://github.com/L1Ryx/Ducks-Afar)
 
 <p align="center">
   <a href="https://postimg.cc/CzTS59xh">
@@ -50,7 +50,9 @@ The project focuses on building a highly polished vertical slice, with particula
 ### ❄️ _Vesuvius_
 [Vesuvius](https://vesuviusgame.com) is a surreal metroidvania where the player uncovers the secrets of a snowy Mt. Vesuvius and its mysterious cult. Its core mechanic centers on shifting between two parallel dimensions to solve puzzles, engagei n combat, and slowly uncover "the other side."
 
-Being more of a **long-term project**, [a playable demo](https://l1ryx.itch.io/vesuvius) is currently available, showcasing the game's core mechanics, including exploration, melee combat, and sound implementation. Audio is implemented dynamically using **Wwise**, ensuring immersive and reactive soundscapes that adapt to player actions and environmental events. Learn more in this [audio implementation demo](https://play.reelcrafter.com/aG3LGNytSIGzhQa5dXnDBA).
+Being more of a **long-term project**, a ~30-minute playable demo is currently available, showcasing the game's core mechanics, including exploration, melee combat, and sound implementation. Audio is implemented dynamically using **Wwise**, ensuring immersive and reactive soundscapes that adapt to player actions and environmental events.
+- [Playable Demo](https://l1ryx.itch.io/vesuvius)
+- [Audio Implementation Demo](https://play.reelcrafter.com/aG3LGNytSIGzhQa5dXnDBA)
 
 <p align="center">
   <img src="https://i.imgur.com/KuhF3AO.png" alt="SS" width="40%"> 
