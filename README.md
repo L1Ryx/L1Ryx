@@ -52,6 +52,7 @@ The project focuses on building a highly polished vertical slice, with particula
 
 Being more of a **long-term project**, a ~30-minute playable demo is currently available, showcasing the game's core mechanics, including exploration, melee combat, and sound implementation. Audio is implemented dynamically using **Wwise**, ensuring immersive and reactive soundscapes that adapt to player actions and environmental events.
 - [Play Game](https://l1ryx.itch.io/vesuvius)
+- [Trailer!](https://drive.google.com/file/d/1A9DSPssvRZr1XDlkY1mOSOAfnc07PiBz/view?usp=sharing)
 - [Audio Implementation Demo](https://play.reelcrafter.com/aG3LGNytSIGzhQa5dXnDBA)
 
 <p align="center">
