@@ -27,7 +27,7 @@ I've worked as a Software Engineering Intern on the _Call of Duty_ franchise at 
 
 I also co-founded the [Hopkins Game Dev Society](https://www.hopkinsgamedevsociety.com/), where we empower Johns Hopkins University students to create games by providing formal mentorship and hosting career-building events.
 
-When I’m not working on professional projects, I like building personal games and implementing cool game design ideas (glorified shower thoughts). This page is a brief introduction to my work and a showcase of some of the more recent personal projects I’ve worked on.
+When I’m not working on professional projects, I like building smaller games and implementing cool game design ideas (glorified shower thoughts). This page is a brief introduction to my work and a showcase of some of the more recent personal projects I’ve worked on.
 
 <p align="center">
   <img src="https://i.imgur.com/cEppnfb.png" alt="SS" width="100%">  
