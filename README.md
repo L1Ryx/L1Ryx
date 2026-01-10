@@ -53,7 +53,7 @@ The project focuses on building a highly polished vertical slice, with particula
 Being more of a **long-term project**, a ~30-minute playable demo is currently available, showcasing the game's core mechanics, including exploration, melee combat, and sound implementation. Audio is implemented dynamically using **Wwise**, ensuring immersive and reactive soundscapes that adapt to player actions and environmental events.
 - [Play Game](https://l1ryx.itch.io/vesuvius) <img src="https://img.shields.io/badge/itch.io-FA5C5C?logo=itchdotio&logoColor=white" />
 - [Trailer!](https://drive.google.com/file/d/1A9DSPssvRZr1XDlkY1mOSOAfnc07PiBz/view?usp=sharing) <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white" />
-- [Audio Implementation Demo](https://play.reelcrafter.com/aG3LGNytSIGzhQa5dXnDBA) <img src="https://img.shields.io/badge/Audio%20Reel-Apple%20Music-FA243C?logo=applemusic&logoColor=white" />
+- [Audio Implementation Demo](https://play.reelcrafter.com/aG3LGNytSIGzhQa5dXnDBA) <img src="https://img.shields.io/badge/Audio%20Reel--FA243C?logo=applemusic&logoColor=white" />
 
 *Vesuvius* is a collaborative project with [Brett Wolfinger](https://github.com/BrettWolfinger), and together we make up the indie studio Snow Day Games.
 
