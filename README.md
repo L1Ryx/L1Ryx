@@ -36,7 +36,7 @@ When I’m not working on professional projects, I like building smaller games a
 ### 🔭 _Ducks Afar_
 
 _Ducks Afar_ is a short, story-driven puzzle game about tracking down your ducks across a distant solar system. As a planetary field researcher, you recover lost ducks by preparing their favorite meals using packs of HARDWORMS, which are highly magnetic resources that cannot be split or combined by hand. To reach the exact amounts each duck demands, you must operate ancient machines embedded in the environment, turning simple arithmetic transformations into physical, world-driven puzzles.
-- Playable Demo (Available Soon!)
+- [Playable Demo](https://l1ryx.itch.io/ducks-afar)
 - [Source Code](https://github.com/L1Ryx/Ducks-Afar)
 
 The project focuses on building a highly polished vertical slice, with particular attention to gameplay clarity, UI and audio juicing, and clean, extensible architecture. On the engineering side, the game emphasizes strong state management through a facade-style game context and structured level sequencing using ScriptableObject-based narrative and gameplay beats. A playable demo of a single level is currently available.
