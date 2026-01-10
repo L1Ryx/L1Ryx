@@ -36,8 +36,8 @@ When I’m not working on professional projects, I like building smaller games a
 ### 🔭 _Ducks Afar_
 
 _Ducks Afar_ is a short, story-driven puzzle game about tracking down your ducks across a distant solar system. As a planetary field researcher, you recover lost ducks by preparing their favorite meals using packs of HARDWORMS, which are highly magnetic resources that cannot be split or combined by hand. To reach the exact amounts each duck demands, you must operate ancient machines embedded in the environment, turning simple arithmetic transformations into physical, world-driven puzzles.
-- <img src="https://img.shields.io/badge/itch.io-FA5C5C?logo=itchdotio&logoColor=white" /> [Playable Demo](https://l1ryx.itch.io/ducks-afar)
-- [Source Code](https://github.com/L1Ryx/Ducks-Afar)
+- [Playable Demo](https://l1ryx.itch.io/ducks-afar) <img src="https://img.shields.io/badge/itch.io-FA5C5C?logo=itchdotio&logoColor=white" />
+- [Source Code](https://github.com/L1Ryx/Ducks-Afar) 
 
 The project focuses on building a highly polished vertical slice, with particular attention to gameplay clarity, UI and audio juicing, and clean, extensible architecture. On the engineering side, the game emphasizes strong state management through a facade-style game context and structured level sequencing using ScriptableObject-based narrative and gameplay beats. A playable demo of a single level is currently available.
 
@@ -51,7 +51,7 @@ The project focuses on building a highly polished vertical slice, with particula
 [_Vesuvius_](https://vesuviusgame.com) is a surreal metroidvania where the player uncovers the secrets of a snowy Mt. Vesuvius and its mysterious cult. Its core mechanic centers on shifting between two parallel dimensions to solve puzzles, engagei n combat, and slowly uncover "the other side."
 
 Being more of a **long-term project**, a ~30-minute playable demo is currently available, showcasing the game's core mechanics, including exploration, melee combat, and sound implementation. Audio is implemented dynamically using **Wwise**, ensuring immersive and reactive soundscapes that adapt to player actions and environmental events.
-- [Play Game](https://l1ryx.itch.io/vesuvius)
+- [Play Game](https://l1ryx.itch.io/vesuvius) <img src="https://img.shields.io/badge/itch.io-FA5C5C?logo=itchdotio&logoColor=white" />
 - [Trailer!](https://drive.google.com/file/d/1A9DSPssvRZr1XDlkY1mOSOAfnc07PiBz/view?usp=sharing)
 - [Audio Implementation Demo](https://play.reelcrafter.com/aG3LGNytSIGzhQa5dXnDBA)
 
@@ -78,7 +78,7 @@ The game's main draw is how it combines turn-based strategy and relentless actio
 [_Deja You_](https://johnnieshen.itch.io/deja-you) is a time-loop puzzle platformer where every rewind spawns a new Lifetime: a ghost of your past actions that continues performing what you did before. The twist is that you have a limited "Time Budget", and every second you spend eats into it. 
 
 Across 15 levels inspired by Maslow’s Hierarchy of Needs, you’ll climb from survival to self-actualization not just by mastering movement, but by coordinating with your past selves. Use multiple Lifetimes to press switches, set up chain reactions, and help future-you reach the exit before the clock runs out.
-- [Play Game](https://johnnieshen.itch.io/deja-you)
+- [Play Game](https://johnnieshen.itch.io/deja-you) <img src="https://img.shields.io/badge/itch.io-FA5C5C?logo=itchdotio&logoColor=white" />
 - [Source Code](https://github.com/JohnnieShen/GMTK-HGDS)
 
 Base version built in 4 days for the 2025 GMTK Game Jam by members of the Hopkins Game Development Society, where I co-led this project.
@@ -89,7 +89,7 @@ Base version built in 4 days for the 2025 GMTK Game Jam by members of the Hopkin
 
 ### ♥️ _Love Language_
 [_Love Language_](https://hopkins-game-dev-society.itch.io/love-language) begins as a wholesome visual novel about finally putting yourself out there on a café date, but things quickly unravel as your dating anxiety twists the world into unsettling minigames. What starts as simple conversation soon fractures into frantic challenges, distorted mechanics, and rising tension as you try to keep the date from falling apart.
-- [Play Game](https://hopkins-game-dev-society.itch.io/love-language)
+- [Play Game](https://hopkins-game-dev-society.itch.io/love-language) <img src="https://img.shields.io/badge/itch.io-FA5C5C?logo=itchdotio&logoColor=white" />
 - [Source Code](https://github.com/Hopkins-Game-Dev-Society/ScreamJam2025)
 
 Built in 6 days for the 2025 Scream Jam by members of the Hopkins Game Development Society, where I co-produced this project, as well as lead engineering and VFX/Audio implementation.
