@@ -107,7 +107,6 @@ Built in 6 days for the 2025 Scream Jam by members of the Hopkins Game Developme
 </p> 
 
 ---
----
 
 <!--
 ### 🪵 _Adam's Room_
