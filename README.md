@@ -106,6 +106,9 @@ Built in 6 days for the 2025 Scream Jam by members of the Hopkins Game Developme
   <img src="https://imgur.com/SiZRknE.png" alt="SS" width="67%">  
 </p> 
 
+---
+---
+
 <!--
 ### 🪵 _Adam's Room_
 [Adam's Room](https://github.com/L1Ryx/Adams-Room) is a survival game set in a single forest clearing with rogue-like elements. Your only goal is to collect logs scattered around the map to keep the fire in the center burning.  
