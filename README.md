@@ -33,6 +33,8 @@ When I’m not working on professional projects, I like building smaller games a
   <img src="https://i.imgur.com/cEppnfb.png" alt="SS" width="100%">  
 </p> 
 
+---
+
 ### 🔭 _Ducks Afar_
 
 _Ducks Afar_ is a short, story-driven puzzle game about tracking down your ducks across a distant solar system. As a planetary field researcher, you recover lost ducks by preparing their favorite meals using packs of HARDWORMS, which are highly magnetic resources that cannot be split or combined by hand. To reach the exact amounts each duck demands, you must operate ancient machines embedded in the environment, turning simple arithmetic transformations into physical, world-driven puzzles.
@@ -46,6 +48,8 @@ The project focuses on building a highly polished vertical slice, with particula
     <img src="https://i.postimg.cc/c46H9Sqn/Ducks-Afar-Screenshot-1-9-26.png" width="67%">
   </a>
 </p>
+
+---
 
 ### ❄️ _Vesuvius_
 [_Vesuvius_](https://vesuviusgame.com) is a surreal metroidvania where the player uncovers the secrets of a snowy Mt. Vesuvius and its mysterious cult. Its core mechanic centers on shifting between two parallel dimensions to solve puzzles, engagei n combat, and slowly uncover "the other side."
@@ -74,6 +78,8 @@ The game's main draw is how it combines turn-based strategy and relentless actio
 </p> 
 -->
 
+---
+
 ### 🤖 _Deja You_
 [_Deja You_](https://johnnieshen.itch.io/deja-you) is a time-loop puzzle platformer where every rewind spawns a new Lifetime: a ghost of your past actions that continues performing what you did before. The twist is that you have a limited "Time Budget", and every second you spend eats into it. 
 
@@ -86,6 +92,8 @@ Base version built in 4 days for the 2025 GMTK Game Jam by members of the Hopkin
 <p align="center">
   <img src="https://i.imgur.com/vYG2siQ.png" alt="SS" width="67%">  
 </p> 
+
+---
 
 ### ♥️ _Love Language_
 [_Love Language_](https://hopkins-game-dev-society.itch.io/love-language) begins as a wholesome visual novel about finally putting yourself out there on a café date, but things quickly unravel as your dating anxiety twists the world into unsettling minigames. What starts as simple conversation soon fractures into frantic challenges, distorted mechanics, and rising tension as you try to keep the date from falling apart.
