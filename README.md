@@ -29,6 +29,8 @@ I also co-founded the [Hopkins Game Dev Society](https://www.hopkinsgamedevsocie
 
 When I’m not working on professional projects, I like building smaller games and implementing cool game design ideas (glorified shower thoughts). This page is a brief introduction to my work and a showcase of some of the more recent personal projects I’ve worked on.
 
+[![Ducks-Afar-Banner.png](https://i.postimg.cc/K8P0N87V/Ducks-Afar-Banner.png)](https://postimg.cc/YvSN2ksf)
+
 <p align="center">
   <img src="https://i.imgur.com/cEppnfb.png" alt="SS" width="100%">  
 </p> 
