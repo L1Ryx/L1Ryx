@@ -29,8 +29,6 @@ I also co-founded the [Hopkins Game Dev Society](https://www.hopkinsgamedevsocie
 
 When I’m not working on professional projects, I like building smaller games and implementing cool game design ideas (glorified shower thoughts). This page is a brief introduction to my work and a showcase of some of the more recent personal projects I’ve worked on.
 
-[![Ducks-Afar-Banner.png](https://i.postimg.cc/K8P0N87V/Ducks-Afar-Banner.png)](https://postimg.cc/YvSN2ksf)
-
 <p align="center">
   <img src="https://i.imgur.com/cEppnfb.png" alt="SS" width="100%">  
 </p> 
@@ -42,6 +40,8 @@ When I’m not working on professional projects, I like building smaller games a
 _Ducks Afar_ is a short, story-driven puzzle game about tracking down your ducks across a distant solar system. As a planetary field researcher, you recover lost ducks by preparing their favorite meals using packs of HARDWORMS, which are highly magnetic resources that cannot be split or combined by hand. To reach the exact amounts each duck demands, you must operate ancient machines embedded in the environment, turning simple arithmetic transformations into physical, world-driven puzzles.
 - [Playable Demo](https://l1ryx.itch.io/ducks-afar) <img src="https://img.shields.io/badge/itch.io-FA5C5C?logo=itchdotio&logoColor=white" />
 - [Source Code](https://github.com/L1Ryx/Ducks-Afar) <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+
+[![Ducks-Afar-Banner.png](https://i.postimg.cc/K8P0N87V/Ducks-Afar-Banner.png)](https://postimg.cc/YvSN2ksf)
 
 The project focuses on building a highly polished vertical slice, with particular attention to gameplay clarity, UI and audio juicing, and clean, extensible architecture. On the engineering side, the game emphasizes strong state management through a facade-style game context and structured level sequencing using ScriptableObject-based narrative and gameplay beats. A playable demo of a single level is currently available.
 
