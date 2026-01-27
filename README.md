@@ -40,6 +40,7 @@ When I’m not working on professional projects, I like building smaller games a
 _Ducks Afar_ is a short, story-driven puzzle game about tracking down your ducks across a distant solar system. As a planetary field researcher, you recover lost ducks by preparing their favorite meals using packs of HARDWORMS, which are highly magnetic resources that cannot be split or combined by hand. To reach the exact amounts each duck demands, you must operate ancient machines embedded in the environment, turning simple arithmetic transformations into physical, world-driven puzzles.
 - [Playable Demo](https://l1ryx.itch.io/ducks-afar) <img src="https://img.shields.io/badge/itch.io-FA5C5C?logo=itchdotio&logoColor=white" />
 - [Source Code](https://github.com/L1Ryx/Ducks-Afar) <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+- [Audio Implementation Demo](https://play.reelcrafter.com/aG3LGNytSIGzhQa5dXnDBA) <img src="https://img.shields.io/badge/Audio%20Reel--000000?logo=applemusic&logoColor=white" />
 
 [![Ducks-Afar-Banner.png](https://i.postimg.cc/K8P0N87V/Ducks-Afar-Banner.png)](https://postimg.cc/YvSN2ksf)
 
