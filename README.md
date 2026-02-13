@@ -93,10 +93,9 @@ Across 15 levels inspired by Maslow’s Hierarchy of Needs, you’ll climb from 
 Base version built in 4 days for the 2025 GMTK Game Jam by members of the Hopkins Game Development Society, where I co-led this project.
 
 <p align="center">
-  <img src="https://i.imgur.com/vYG2siQ.png" alt="SS" width="67%">   
+  <img src="https://i.postimg.cc/VLKGGM7z/v-YG2si-Q-Imgur.png" alt="SS" width="67%">   
 </p> 
 
-[![v-YG2si-Q-Imgur.png](https://i.postimg.cc/VLKGGM7z/v-YG2si-Q-Imgur.png)](https://postimg.cc/bs29dGc5)
 ---
 
 ### ♥️ _Love Language_
