@@ -42,7 +42,7 @@ Currently, I'm focused on:
 - Developing _Ducks Afar_ into a polished vertical slice with strong gameplay clarity, UI/audio feedback, and clean systems architecture.
 - Preparing for **games and SWE recruiting**, with **audio programming** as my primary specialization and gameplay/tools engineering as adjacent strengths.
 
-This page is a brief introduction to my work, with an emphasis on projects that show my experience in **game systems, technical audio, and interactive software development**.
+This page is a brief introduction to my work.
 
 <p align="center">
   <img src="https://i.imgur.com/cEppnfb.png" alt="SS" width="100%">  
