@@ -46,7 +46,7 @@ Currently, I’m developing [_Ducks Afar_](https://l1ryx.itch.io/ducks-afar) tow
 
 ## 🎧 Technical Audio / Audio Programming
 
-Across my projects, I’ve worked on systems for dynamic ambience, player movement feedback, combat audio, UI sounds, interactive music cues, and game-state-driven audio transitions.
+Across my projects, I’ve built systems for dynamic ambience, player movement feedback, combat audio, UI sounds, interactive music cues, and game-state-driven audio transitions.
 
 ### Featured Audio Work
 
@@ -63,11 +63,10 @@ Across my projects, I’ve worked on systems for dynamic ambience, player moveme
 _Ducks Afar_ is a short, story-driven puzzle game about tracking down your ducks across a distant solar system. As a planetary field researcher, you recover lost ducks by preparing their favorite meals using packs of HARDWORMS, which are highly magnetic resources that cannot be split or combined by hand. To reach the exact amounts each duck demands, you must operate ancient machines embedded in the environment, turning simple arithmetic transformations into physical, world-driven puzzles.
 - [Playable Demo](https://l1ryx.itch.io/ducks-afar) <img src="https://img.shields.io/badge/itch.io-FA5C5C?logo=itchdotio&logoColor=white" />
 - [Source Code](https://github.com/L1Ryx/Ducks-Afar) <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
-- [Audio Implementation Demo](https://play.reelcrafter.com/aG3LGNytSIGzhQa5dXnDBA) <img src="https://img.shields.io/badge/Audio%20Reel--000000?logo=applemusic&logoColor=white" />
 
 [![Ducks-Afar-Banner.png](https://i.postimg.cc/K8P0N87V/Ducks-Afar-Banner.png)](https://postimg.cc/YvSN2ksf)
 
-The project focuses on building a highly polished vertical slice, with particular attention to gameplay clarity, UI and audio juicing, and clean, extensible architecture. On the engineering side, the game emphasizes strong state management through a facade-style game context and structured level sequencing using ScriptableObject-based narrative and gameplay beats. A playable demo of a single level is currently available.
+My work focuses on gameplay architecture, puzzle-state management, UI/game-feel implementation, and audio feedback. The game uses a facade-style game context and ScriptableObject-authored narrative/gameplay beats to keep level sequencing readable and extensible. A demo of the first act (~20 minutes) is currently playable.
 
 <p align="center">
   <a href="https://postimg.cc/CzTS59xh">
@@ -85,7 +84,6 @@ A ~30-minute playable demo is currently available, showcasing exploration, melee
 
 - [Play Game](https://l1ryx.itch.io/vesuvius) <img src="https://img.shields.io/badge/itch.io-FA5C5C?logo=itchdotio&logoColor=white" />
 - [Trailer!](https://drive.google.com/file/d/1VhEFxZ_zvSGCcV_iD5HtuLpMk82qNdRa/view?usp=drive_link) <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white" />
-- [Audio Implementation Demo](https://youtu.be/l4PUy7jhyik) <img src="https://img.shields.io/badge/Audio%20Demo-FF0000?logo=youtube&logoColor=white" />
 
 *Vesuvius* is a collaborative project with [Brett Wolfinger](https://github.com/BrettWolfinger), and together we make up the indie studio Snow Day Games.
 
@@ -108,30 +106,30 @@ The game's main draw is how it combines turn-based strategy and relentless actio
 
 ---
 
-### 🤖 _Deja You_
-[_Deja You_](https://johnnieshen.itch.io/deja-you) is a time-loop puzzle platformer where every rewind spawns a new Lifetime: a ghost of your past actions that continues performing what you did before. The twist is that you have a limited "Time Budget", and every second you spend eats into it. 
+## Collaborative Game Projects
 
-Across 15 levels inspired by Maslow’s Hierarchy of Needs, you’ll climb from survival to self-actualization not just by mastering movement, but by coordinating with your past selves. Use multiple Lifetimes to press switches, set up chain reactions, and help future-you reach the exit before the clock runs out.
+### 🤖 _Deja You_
+
+[_Deja You_](https://johnnieshen.itch.io/deja-you) is a time-loop puzzle platformer where each rewind creates a “Lifetime” that repeats the player’s past actions. Built in 4 days for the 2025 GMTK Game Jam by members of the Hopkins Game Development Society, where I co-led the project.
+
 - [Play Game](https://johnnieshen.itch.io/deja-you) <img src="https://img.shields.io/badge/itch.io-FA5C5C?logo=itchdotio&logoColor=white" />
 - [Source Code](https://github.com/JohnnieShen/GMTK-HGDS) <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
 
-Base version built in 4 days for the 2025 GMTK Game Jam by members of the Hopkins Game Development Society, where I co-led this project.
-
 <p align="center">
-  <img src="https://i.postimg.cc/VLKGGM7z/v-YG2si-Q-Imgur.png" alt="SS" width="67%">   
+  <img src="https://i.postimg.cc/VLKGGM7z/v-YG2si-Q-Imgur.png" alt="Deja You Screenshot" width="67%">   
 </p> 
 
 ---
 
 ### ♥️ _Love Language_
-[_Love Language_](https://hopkins-game-dev-society.itch.io/love-language) begins as a wholesome visual novel about finally putting yourself out there on a café date, but things quickly unravel as your dating anxiety twists the world into unsettling minigames. What starts as simple conversation soon fractures into frantic challenges, distorted mechanics, and rising tension as you try to keep the date from falling apart.
+
+[_Love Language_](https://hopkins-game-dev-society.itch.io/love-language) is a visual-novel horror game where dating anxiety distorts a café date into a series of unsettling minigames. Built in 6 days for the 2025 Scream Jam by members of the Hopkins Game Development Society, where I co-produced the project and led engineering, VFX, and audio implementation.
+
 - [Play Game](https://hopkins-game-dev-society.itch.io/love-language) <img src="https://img.shields.io/badge/itch.io-FA5C5C?logo=itchdotio&logoColor=white" />
 - [Source Code](https://github.com/Hopkins-Game-Dev-Society/ScreamJam2025) <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
 
-Built in 6 days for the 2025 Scream Jam by members of the Hopkins Game Development Society, where I co-produced this project, as well as lead engineering and VFX/Audio implementation.
-
 <p align="center">
-  <img src="https://imgur.com/SiZRknE.png" alt="SS" width="67%">  
+  <img src="https://imgur.com/SiZRknE.png" alt="Love Language Screenshot" width="67%">  
 </p> 
 
 ---
