@@ -58,6 +58,8 @@ Across my projects, I’ve built systems for dynamic ambience, player movement f
 
 ---
 
+## Featured Projects
+
 ### 🔭 _Ducks Afar_
 
 _Ducks Afar_ is a short, story-driven puzzle game about tracking down your ducks across a distant solar system. As a planetary field researcher, you recover lost ducks by preparing their favorite meals using packs of HARDWORMS, which are highly magnetic resources that cannot be split or combined by hand. To reach the exact amounts each duck demands, you must operate ancient machines embedded in the environment, turning simple arithmetic transformations into physical, world-driven puzzles.
