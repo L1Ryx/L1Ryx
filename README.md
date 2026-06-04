@@ -46,6 +46,20 @@ This page is a brief introduction to my work.
 
 ---
 
+## 🎧 Technical Audio / Audio Programming
+
+Across my projects, I’ve worked on systems for dynamic ambience, player movement feedback, combat audio, UI sounds, interactive music cues, and game-state-driven audio transitions.
+
+### Featured Audio Work
+
+- [_Vesuvius_ Audio Implementation Demo](https://youtu.be/l4PUy7jhyik)  
+  Wwise-driven implementation for movement, combat, UI, ambience, interactables, and environmental feedback.
+
+- [_Ducks Afar_ Audio Implementation Demo](https://youtu.be/dayO8vM3lTk)  
+  Dynamic audio feedback for puzzle interactions, resource transformations, and moment-to-moment game feel.
+
+---
+
 ### 🔭 _Ducks Afar_
 
 _Ducks Afar_ is a short, story-driven puzzle game about tracking down your ducks across a distant solar system. As a planetary field researcher, you recover lost ducks by preparing their favorite meals using packs of HARDWORMS, which are highly magnetic resources that cannot be split or combined by hand. To reach the exact amounts each duck demands, you must operate ancient machines embedded in the environment, turning simple arithmetic transformations into physical, world-driven puzzles.
