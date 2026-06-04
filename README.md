@@ -44,7 +44,7 @@ Currently, I’m developing [_Ducks Afar_](https://l1ryx.itch.io/ducks-afar) tow
 
 ---
 
-## 🎧 Technical Audio / Audio Programming
+## Technical Audio / Audio Programming
 
 Across my projects, I’ve built systems for dynamic ambience, player movement feedback, combat audio, UI sounds, interactive music cues, and game-state-driven audio transitions.
 
@@ -108,7 +108,7 @@ The game's main draw is how it combines turn-based strategy and relentless actio
 
 ---
 
-## Collaborative Game Projects
+## Past Projects
 
 ### 🤖 _Deja You_
 
