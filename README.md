@@ -78,12 +78,14 @@ The project focuses on building a highly polished vertical slice, with particula
 ---
 
 ### ❄️ _Vesuvius_
-[_Vesuvius_](https://vesuviusgame.com) is a surreal metroidvania where the player uncovers the secrets of a snowy Mt. Vesuvius and its mysterious cult. Its core mechanic centers on shifting between two parallel dimensions to solve puzzles, engagei n combat, and slowly uncover "the other side."
 
-Being more of a **long-term project**, a ~30-minute playable demo is currently available, showcasing the game's core mechanics, including exploration, melee combat, and sound implementation. Audio is implemented dynamically using **Wwise**, ensuring immersive and reactive soundscapes that adapt to player actions and environmental events.
+[_Vesuvius_](https://vesuviusgame.com) is a surreal metroidvania where the player explores a snowy Mt. Vesuvius, shifts between two parallel dimensions, and uncovers the secrets of a mysterious cult.
+
+A ~30-minute playable demo is currently available, showcasing exploration, melee combat, dimension-shifting puzzles, and dynamic sound implementation. I work on gameplay systems and technical audio, including Wwise-driven feedback for movement, combat, UI, ambience, interactables, and environmental events.
+
 - [Play Game](https://l1ryx.itch.io/vesuvius) <img src="https://img.shields.io/badge/itch.io-FA5C5C?logo=itchdotio&logoColor=white" />
-- [Trailer!](https://drive.google.com/file/d/1A9DSPssvRZr1XDlkY1mOSOAfnc07PiBz/view?usp=sharing) <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white" />
-- [Audio Implementation Demo](https://play.reelcrafter.com/aG3LGNytSIGzhQa5dXnDBA) <img src="https://img.shields.io/badge/Audio%20Reel--000000?logo=applemusic&logoColor=white" />
+- [Trailer!](https://drive.google.com/file/d/1VhEFxZ_zvSGCcV_iD5HtuLpMk82qNdRa/view?usp=drive_link) <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white" />
+- [Audio Implementation Demo](https://youtu.be/l4PUy7jhyik) <img src="https://img.shields.io/badge/Audio%20Demo-FF0000?logo=youtube&logoColor=white" />
 
 *Vesuvius* is a collaborative project with [Brett Wolfinger](https://github.com/BrettWolfinger), and together we make up the indie studio Snow Day Games.
 
