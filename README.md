@@ -1,10 +1,19 @@
 ## 👋 Hello there!
-I'm Shawn, a gameplay/systems/audio programmer and technical sound designer. I'm also a senior Computer Science student at [Johns Hopkins University](https://www.cs.jhu.edu/), and a senior in Peabody Institute’s [Music for New Media](https://peabody.jhu.edu/academics/instruments-areas-of-study/music-for-new-media/) program.
+
+I'm Shawn Guo, an **software engineer and audio-focused game programmer** working across **adaptive audio systems, gameplay systems, and interactive tools**.
+
+I recently graduated from [Johns Hopkins University](https://www.cs.jhu.edu/) with a **BS in Computer Science** and from the Peabody Institute’s [Music for New Media](https://peabody.jhu.edu/academics/instruments-areas-of-study/music-for-new-media/) program with a **BM in Music for New Media**.
+
+I previously worked as a **C++ Software Engineering Intern** on the _Call of Duty_ franchise at [Activision / Raven Software](https://www.ravensoftware.com/our-games), and as a **Gameplay Programmer & 3D Technical Sound Designer** at [Serious Point Games](https://www.seriouspointgames.com/) for their upcoming title, _The Ski Lodge Murder_.
+
+I’m most interested in work where audio is treated as part of the game’s runtime systems and shaped through close collaboration between engineering, design, and sound. My work primarily revolves around **audio programming**, with **gameplay systems** and **tools engineering** as closely related strengths.
 
 I'm comfortable with:
+
 - <span>Game Engines:</span>
   <img src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/Unreal%20Engine%205-0E1128?logo=unrealengine&logoColor=white" />
+
 - <span>Languages:</span>
   <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" />
@@ -14,20 +23,26 @@ I'm comfortable with:
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Java-007396?logo=coffeescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+
 - <span>Technical Audio:</span>
   <img src="https://img.shields.io/badge/Wwise-00549F?logo=airplayaudio&logoColor=white" />
   <img src="https://img.shields.io/badge/FMOD-FA5C5C?logo=fmod&logoColor=white" />
+
 - <span>Collaboration:</span>
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Perforce-404D59?logo=perforce&logoColor=white" />
   <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=white" />
 
-I've worked as a Software Engineering Intern on the _Call of Duty_ franchise at [Activision/Raven Software](https://www.ravensoftware.com/our-games) and as a Gameplay Programmer & Tech Sound Designer at [Serious Point Games](https://www.seriouspointgames.com/) for their upcoming title, _The Ski Lodge Murder_. 
+I also co-founded the [Hopkins Game Dev Society](https://www.hopkinsgamedevsociety.com/), where we help Johns Hopkins students build games through mentorship, project support, and career-focused events.
 
-I also co-founded the [Hopkins Game Dev Society](https://www.hopkinsgamedevsociety.com/), where we empower Johns Hopkins University students to create games by providing formal mentorship and hosting career-building events.
+Currently, I'm focused on:
 
-When I’m not working on professional projects, I like building smaller games and implementing cool game design ideas (glorified shower thoughts). This page is a brief introduction to my work and a showcase of some of the more recent personal projects I’ve worked on.
+- Building **audio-programming portfolio demos** around adaptive audio, runtime game-state integration, and technical implementation workflows.
+- Developing _Ducks Afar_ into a polished vertical slice with strong gameplay clarity, UI/audio feedback, and clean systems architecture.
+- Preparing for **games and SWE recruiting**, with **audio programming** as my primary specialization and gameplay/tools engineering as adjacent strengths.
+
+This page is a brief introduction to my work, with an emphasis on projects that show my experience in **game systems, technical audio, and interactive software development**.
 
 <p align="center">
   <img src="https://i.imgur.com/cEppnfb.png" alt="SS" width="100%">  
