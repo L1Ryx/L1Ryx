@@ -38,8 +38,6 @@ I also co-founded the [Hopkins Game Dev Society](https://www.hopkinsgamedevsocie
 
 Currently, I’m developing [_Ducks Afar_](https://l1ryx.itch.io/ducks-afar) toward a late-summer Steam release, with a focus on gameplay clarity, UI/audio feedback, and polished puzzle interactions. I’m also continuing audio systems work for [_Vesuvius_](https://vesuviusgame.com/), building interactive audio features that support exploration, combat, ambience, and player feedback.
 
-This page is a brief introduction to my work.
-
 <p align="center">
   <img src="https://i.imgur.com/cEppnfb.png" alt="SS" width="100%">  
 </p> 
