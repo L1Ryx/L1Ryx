@@ -4,9 +4,7 @@ I'm Shawn Guo, a **software engineer specializing in game audio, gameplay system
 
 I recently graduated from [Johns Hopkins University](https://www.cs.jhu.edu/) with a **BS in Computer Science** and from the Peabody Institute’s [Music for New Media](https://peabody.jhu.edu/academics/instruments-areas-of-study/music-for-new-media/) program with a **BM in Music for New Media**.
 
-I previously worked as a **C++ Software Engineering Intern** on the _Call of Duty_ franchise at [Activision / Raven Software](https://www.ravensoftware.com/our-games), and as a **Gameplay Programmer & 3D Technical Sound Designer** at [Serious Point Games](https://www.seriouspointgames.com/) for their upcoming title, _The Ski Lodge Murder_.
-
-I’m most interested in work where audio is treated as part of the game’s runtime systems and shaped through close collaboration between engineering, design, and sound. My primary focus is **audio programming**, with **gameplay systems** and **tools engineering** as closely related strengths.
+I previously worked as a **C++ Software Engineering Intern** on the _Call of Duty_ franchise at [Activision / Raven Software](https://www.ravensoftware.com/our-games), and as a **Gameplay Programmer & 3D Technical Sound Designer** at [Serious Point Games](https://www.seriouspointgames.com/) for their upcoming title, _The Ski Lodge Murder_. I’m most interested in work where audio is treated as part of the game’s runtime systems and shaped through close collaboration between engineering, design, and sound. My primary focus is **audio programming**, with **gameplay systems** and **tools engineering** as closely related strengths.
 
 I'm comfortable with:
 
@@ -36,11 +34,7 @@ I'm comfortable with:
 
 I also co-founded the [Hopkins Game Dev Society](https://www.hopkinsgamedevsociety.com/), where we help Johns Hopkins students build games through mentorship, project support, and career-focused events.
 
-Currently, I'm focused on:
-
-- Building **audio-programming portfolio demos** around adaptive audio, runtime game-state integration, and technical implementation workflows.
-- Developing _Ducks Afar_ into a polished vertical slice with strong gameplay clarity, UI/audio feedback, and clean systems architecture.
-- Preparing for **games and SWE recruiting**, with **audio programming** as my primary specialization and gameplay/tools engineering as adjacent strengths.
+Currently, I’m developing _Ducks Afar_ toward a late-summer Steam release, with a focus on gameplay clarity, UI/audio feedback, and polished puzzle interactions. I’m also continuing audio systems work for _Vesuvius_, building interactive audio features that support exploration, combat, ambience, and player feedback.
 
 This page is a brief introduction to my work.
 
