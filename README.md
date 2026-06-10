@@ -50,7 +50,7 @@ Across my projects, I’ve built systems for dynamic ambience, player movement f
 
 ### Featured Audio Work
 
-- [Spectral Imprints DSP for _Deja You Demo]()  
+- [Spectral Imprints DSP for _Deja You_ Demo](https://www.youtube.com/47ZvbMOSV1Q)  
   Middleware-independent DSP feature for _Deja You_ that gives replayed player “Lifetimes” generation-based sound identities through real-time filtering, delay, sample-rate-style degradation, bit-depth reduction, and gain shaping. Includes a native C++ DSP kernel for per-sample degradation.
   
 - [_Vesuvius_ Audio Implementation Demo](https://youtu.be/l4PUy7jhyik)  
