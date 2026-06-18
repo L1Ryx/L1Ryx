@@ -1,6 +1,6 @@
 ## 👋 Hello there!
 
-I'm Shawn Guo, a software engineer specializing in game audio, gameplay systems, and interactive tools.
+I'm Shawn Guo, a software engineer specializing in systems, gameplay, and audio programming.
 
 I recently graduated from [Johns Hopkins University](https://www.cs.jhu.edu/) with a BS in Computer Science and from the Peabody Institute’s [Music for New Media](https://peabody.jhu.edu/academics/instruments-areas-of-study/music-for-new-media/) program with a BM in Music for New Media.
 
