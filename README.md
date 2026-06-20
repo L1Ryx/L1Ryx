@@ -36,7 +36,7 @@ I'm comfortable with:
 
 I also co-founded the [Hopkins Game Dev Society](https://www.hopkinsgamedevsociety.com/), where we help Johns Hopkins students build games through mentorship, project support, and career-focused events.
 
-Currently, I’m developing [_Ducks Afar_](https://l1ryx.itch.io/ducks-afar) toward a late-summer Steam release, with a focus on gameplay clarity, UI/audio feedback, and polished puzzle interactions. I’m also continuing audio systems work for [_Vesuvius_](https://vesuviusgame.com/), building interactive audio features that support exploration, combat, ambience, and player feedback.
+Currently, I’m developing [_Ducks Afar_](https://l1ryx.itch.io/ducks-afar). I’m also continuing audio systems work for [_Vesuvius_](https://vesuviusgame.com/), building interactive audio features that support exploration, combat, ambience, and player feedback.
 
 <p align="center">
   <img src="https://i.imgur.com/cEppnfb.png" alt="SS" width="100%">  
