@@ -61,7 +61,7 @@ Across my projects, I’ve built systems for dynamic ambience, player movement f
 
 ---
 
-## Featured Projects
+## Featured Game Projects
 
 ### 🔭 _Ducks Afar_
 
